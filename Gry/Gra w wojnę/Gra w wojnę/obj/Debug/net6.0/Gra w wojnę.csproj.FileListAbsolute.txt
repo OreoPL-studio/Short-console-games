@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\bin\Debug\net6.0\Gra w wojnę.exe
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\bin\Debug\net6.0\Gra w wojnę.deps.json
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\bin\Debug\net6.0\Gra w wojnę.runtimeconfig.json
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\bin\Debug\net6.0\Gra w wojnę.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\bin\Debug\net6.0\ref\Gra w wojnę.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\bin\Debug\net6.0\Gra w wojnę.pdb
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\obj\Debug\net6.0\Gra w wojnę.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\obj\Debug\net6.0\Gra w wojnę.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\obj\Debug\net6.0\Gra w wojnę.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\obj\Debug\net6.0\Gra w wojnę.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\obj\Debug\net6.0\Gra w wojnę.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\obj\Debug\net6.0\Gra w wojnę.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\obj\Debug\net6.0\ref\Gra w wojnę.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\obj\Debug\net6.0\Gra w wojnę.pdb
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wojnę\Gra w wojnę\obj\Debug\net6.0\Gra w wojnę.genruntimeconfig.cache

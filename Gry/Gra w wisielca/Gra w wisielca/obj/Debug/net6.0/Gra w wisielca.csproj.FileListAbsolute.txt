@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\bin\Debug\net6.0\Gra w wisielca.exe
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\bin\Debug\net6.0\Gra w wisielca.deps.json
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\bin\Debug\net6.0\Gra w wisielca.runtimeconfig.json
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\bin\Debug\net6.0\Gra w wisielca.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\bin\Debug\net6.0\ref\Gra w wisielca.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\bin\Debug\net6.0\Gra w wisielca.pdb
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\obj\Debug\net6.0\Gra w wisielca.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\obj\Debug\net6.0\Gra w wisielca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\obj\Debug\net6.0\Gra w wisielca.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\obj\Debug\net6.0\Gra w wisielca.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\obj\Debug\net6.0\Gra w wisielca.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\obj\Debug\net6.0\Gra w wisielca.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\obj\Debug\net6.0\ref\Gra w wisielca.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\obj\Debug\net6.0\Gra w wisielca.pdb
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w wisielca\Gra w wisielca\obj\Debug\net6.0\Gra w wisielca.genruntimeconfig.cache

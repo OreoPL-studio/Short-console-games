@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\bin\Debug\net6.0\Gra w kółko i krzyżyk.exe
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\bin\Debug\net6.0\Gra w kółko i krzyżyk.deps.json
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\bin\Debug\net6.0\Gra w kółko i krzyżyk.runtimeconfig.json
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\bin\Debug\net6.0\Gra w kółko i krzyżyk.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\bin\Debug\net6.0\ref\Gra w kółko i krzyżyk.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\bin\Debug\net6.0\Gra w kółko i krzyżyk.pdb
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\obj\Debug\net6.0\Gra w kółko i krzyżyk.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\obj\Debug\net6.0\Gra w kółko i krzyżyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\obj\Debug\net6.0\Gra w kółko i krzyżyk.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\obj\Debug\net6.0\Gra w kółko i krzyżyk.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\obj\Debug\net6.0\Gra w kółko i krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\obj\Debug\net6.0\Gra w kółko i krzyżyk.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\obj\Debug\net6.0\ref\Gra w kółko i krzyżyk.dll
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\obj\Debug\net6.0\Gra w kółko i krzyżyk.pdb
+C:\Users\PC\Desktop\Projekty\C#\Gry\Gra w kółko i krzyżyk\Gra w kółko i krzyżyk\obj\Debug\net6.0\Gra w kółko i krzyżyk.genruntimeconfig.cache

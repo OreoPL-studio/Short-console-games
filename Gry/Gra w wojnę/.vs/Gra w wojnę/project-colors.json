@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89e1b338-21a3-4cf2-99f8-3f2743908c81": {
+      "ProjectGuid": "89e1b338-21a3-4cf2-99f8-3f2743908c81",
+      "DisplayName": "Gra w wojnę",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

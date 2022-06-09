@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "535b66a6-efbe-40a3-9f54-427084d86ef5": {
+      "ProjectGuid": "535b66a6-efbe-40a3-9f54-427084d86ef5",
+      "DisplayName": "Gra w kółko i krzyżyk",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
